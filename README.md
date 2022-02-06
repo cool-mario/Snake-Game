@@ -17,3 +17,5 @@ In this project, I used the Python Tkinter library, threading, and a few others.
 
 What stands out:
 I added a unique feature for fun; If you press r, you can break off from your body to start a new snake!
+
+![image](https://user-images.githubusercontent.com/50786617/152668854-2adb2cc8-7e86-4db8-849e-1b8dc016ba52.png)
